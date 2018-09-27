@@ -1,0 +1,9 @@
+c:\users\panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\bin\Debug\External Crosshair.exe.config
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\Hacks.Hack.resources
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\Hacks.Properties.Resources.resources
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\External Crosshair.csproj.GenerateResource.Cache
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\bin\Debug\External Crosshair.exe
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\bin\Debug\External Crosshair.pdb
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\External Crosshair.exe
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\External Crosshair.pdb
+C:\Users\Panayiotis\documents\visual studio 2013\Projects\External Crosshair\External Crosshair\obj\Debug\External Crosshair.csprojResolveAssemblyReference.cache
