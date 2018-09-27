@@ -1,4 +1,4 @@
-# External-Crosshair-Overlay
+# External Crosshair Overlay
 Adds an overlay over your chosen game and places a **crosshair** in the middle of the screen.
 
 ## How do I choose the game?
